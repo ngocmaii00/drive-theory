@@ -1,36 +1,128 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DriveTheory - Website Học Lý Thuyết Lái Xe
 
-## Getting Started
+Website học lý thuyết lái xe hiện đại với Tailwind CSS v4, Next.js 15 và animations đẹp mắt.
 
-First, run the development server:
+## 🚀 Công nghệ sử dụng
 
-```bash
+- **Next.js 15** - React framework
+- **Tailwind CSS v4** - Utility-first CSS framework (mới nhất)
+- **TypeScript** - Type safety
+- **Lucide React** - Beautiful icons
+- **Radix UI** - Accessible components
+
+## 📦 Cài đặt
+
+\`\`\`bash
+# Clone repository
+git clone <repository-url>
+cd driving-theory-website
+
+# Cài đặt dependencies
+npm install
+
+# Chạy development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+\`\`\`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🎨 Tailwind CSS v4 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Cú pháp mới:
+- `@import 'tailwindcss'` thay vì `@tailwind` directives
+- `@theme` block để define custom properties
+- `@utility` để tạo custom utilities
+- Zero-config by default
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Custom Properties:
+\`\`\`css
+@theme {
+  --color-brand-blue: 217.2 91.2% 59.8%;
+  --color-brand-purple: 262.1 83.3% 57.8%;
+  --color-brand-pink: 322.2 84.5% 64.9%;
+}
+\`\`\`
 
-## Learn More
+### Custom Utilities:
+\`\`\`css
+@utility animate-slide-up {
+  animation: slide-up 0.8s ease-out;
+}
 
-To learn more about Next.js, take a look at the following resources:
+@utility bg-gradient-brand {
+  background: linear-gradient(135deg, hsl(var(--color-brand-blue)), hsl(var(--color-brand-purple)));
+}
+\`\`\`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎭 Animations
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Website bao gồm 20+ custom animations:
+- Scroll-triggered animations
+- Hover effects
+- Loading animations
+- Particle systems
+- Gradient shifts
 
-## Deploy on Vercel
+## 📱 Responsive Design
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Mobile-first approach
+- Breakpoints: sm, md, lg, xl, 2xl
+- Touch-friendly interactions
+- Optimized for all devices
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ♿ Accessibility
+
+- `prefers-reduced-motion` support
+- High contrast mode
+- Keyboard navigation
+- Screen reader friendly
+- WCAG 2.1 compliant
+
+## 🔧 Configuration
+
+### PostCSS Config:
+\`\`\`js
+// postcss.config.mjs
+export default {
+  plugins: {
+    '@tailwindcss/postcss': {},
+  },
+}
+\`\`\`
+
+### No Tailwind Config Needed!
+Tailwind v4 is zero-config by default. All customization is done in CSS.
+
+## 📂 Project Structure
+
+\`\`\`
+src/
+├── app/
+│   ├── page.tsx          # Main homepage
+│   ├── layout.tsx        # Root layout
+│   └── globals.css       # Tailwind v4 styles
+├── components/
+│   ├── Header.tsx
+│   ├── HeroSection.tsx
+│   ├── StatsSection.tsx
+│   ├── FeaturesSection.tsx
+│   ├── TopicsSection.tsx
+│   ├── TestimonialsSection.tsx
+│   ├── CTASection.tsx
+│   ├── Footer.tsx
+│   ├── FloatingActionButton.tsx
+│   └── ParticleBackground.tsx
+└── components/ui/         # Radix UI components
+\`\`\`
+
+## 🚀 Deployment
+
+\`\`\`bash
+# Build for production
+npm run build
+
+# Start production server
+npm start
+\`\`\`
+
+## 📝 License
+
+MIT License - feel free to use for your projects!
