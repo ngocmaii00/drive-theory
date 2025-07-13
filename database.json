@@ -1,0 +1,4701 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "exam_id": 1,
+      "question": "Người điều khiển phương tiện giao thông đường bộ mà trong cơ thể có chất ma túy có bị nghiêm cấm hay không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Bị nghiêm cấm.", "correct": true },
+        { "id": 2, "content": "Không bị nghiêm cấm.", "correct": false },
+        {
+          "id": 3,
+          "content": "Không bị nghiêm cấm, nếu có chất ma túy ở mức nhẹ, có thể điều khiển phương tiện tham gia giao thông.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 2,
+      "exam_id": 1,
+      "question": "Hành vi điều khiển xe cơ giới chạy quá tốc độ quy định, giành đường, vượt ẩu có bị nghiêm cấm hay không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Bị nghiêm cấm tùy từng trường hợp.",
+          "correct": false
+        },
+        { "id": 2, "content": "Không bị nghiêm cấm.", "correct": false },
+        { "id": 3, "content": "Bị nghiêm cấm.", "correct": true }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 3,
+      "exam_id": 1,
+      "question": "Khi muốn chuyển hướng, người lái xe phải thực hiện như thế nào để đảm bảo an toàn giao thông?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Quan sát gương, ra tín hiệu, quan sát an toàn và chuyển hướng.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Quan sát gương, giảm tốc độ, ra tín hiệu chuyển hướng, quan sát an toàn và chuyển hướng.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Quan sát gương, tăng tốc độ, ra tín hiệu và chuyển hướng.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 4,
+      "exam_id": 1,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Cấm xe ô tô con.", "correct": false },
+        { "id": 2, "content": "Cấm xe mô tô.", "correct": true },
+        { "id": 3, "content": "Cấm xe tải.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cam-mo-to.jpg"
+    },
+    {
+      "id": 5,
+      "exam_id": 1,
+      "question": "Biển báo nào báo hiệu giao nhau với đường không ưu tiên?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": false },
+        { "id": 2, "content": "Biển 2.", "correct": true },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-giao-nhau-voi-duong-khong-uu-tien.jpg"
+    },
+    {
+      "id": 6,
+      "exam_id": 1,
+      "question": "Xe nào được quyền đi trước trong trường hợp này?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe mô tô.", "correct": true },
+        { "id": 3, "content": "Xe tải.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-uu-tien-re-phai.jpg"
+    },
+    {
+      "id": 7,
+      "exam_id": 1,
+      "question": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con, xe tải, xe mô tô.", "correct": false },
+        { "id": 2, "content": "Xe tải, xe con, xe mô tô.", "correct": true },
+        { "id": 3, "content": "Xe mô tô, xe tải, xe con.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-thu-tu-xe-qua-nga-tu.jpg"
+    },
+    {
+      "id": 8,
+      "exam_id": 1,
+      "question": "Người lái xe phải làm gì khi gặp biển báo này?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Giảm tốc độ, đi thẳng.", "correct": false },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, nhường đường cho xe ngược chiều qua vạch dừng.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Dừng lại, đợi xe ngược chiều đi hết rồi mới đi.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 9,
+      "exam_id": 1,
+      "question": "Trong trường hợp nào, người điều khiển xe mô tô hai bánh được chở tối đa 2 người?",
+      "type": "multiple-choice",
+      "answer": [
+        { "id": 1, "content": "Chở người bệnh đi cấp cứu.", "correct": true },
+        {
+          "id": 2,
+          "content": "Áp giải người có hành vi vi phạm pháp luật.",
+          "correct": true
+        },
+        { "id": 3, "content": "Trẻ em dưới 12 tuổi.", "correct": true },
+        {
+          "id": 4,
+          "content": "Chở người đang say rượu, bia.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 10,
+      "exam_id": 1,
+      "question": "Biển báo nào cấm xe mô tô 2 bánh đi vào?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": false },
+        { "id": 2, "content": "Biển 2.", "correct": true },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cam-mo-to-hai-banh.jpg"
+    },
+    {
+      "id": 11,
+      "exam_id": 1,
+      "question": "Khi gặp biển báo này, người lái xe phải xử lý như thế nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ, chú ý chướng ngại vật phía trước.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Tăng tốc độ để vượt qua chướng ngại vật.",
+          "correct": false
+        },
+        { "id": 3, "content": "Dừng lại chờ thông báo.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-chu-y-chuong-ngai-vat.jpg"
+    },
+    {
+      "id": 12,
+      "exam_id": 1,
+      "question": "Theo hướng mũi tên, xe nào được phép đi?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con và xe tải.", "correct": true },
+        { "id": 2, "content": "Xe khách và xe mô tô.", "correct": false },
+        { "id": 3, "content": "Tất cả các xe.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-theo-huong-mui-ten.jpg"
+    },
+    {
+      "id": 13,
+      "exam_id": 1,
+      "question": "Người lái xe phải xử lý như thế nào khi gặp xe cứu thương đang phát tín hiệu ưu tiên?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Không được vượt.", "correct": true },
+        {
+          "id": 2,
+          "content": "Được vượt khi đảm bảo an toàn.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Được vượt khi đi qua nơi giao nhau có ít phương tiện.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 14,
+      "exam_id": 1,
+      "question": "Người ngồi trên xe mô tô hai bánh, ba bánh, xe gắn máy khi tham gia giao thông có được mang, vác vật cồng kềnh hay không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được mang vác, tùy trường hợp cụ thể.",
+          "correct": false
+        },
+        { "id": 2, "content": "Không được mang vác.", "correct": true },
+        {
+          "id": 3,
+          "content": "Được mang, vác nhưng phải đảm bảo an toàn.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 15,
+      "exam_id": 1,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đường một chiều.", "correct": false },
+        { "id": 2, "content": "Cấm đi ngược chiều.", "correct": true },
+        { "id": 3, "content": "Cấm tất cả các phương tiện.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cam-di-nguoc-chieu.jpg"
+    },
+    {
+      "id": 16,
+      "exam_id": 1,
+      "question": "Biển báo nào cho phép xe mô tô hai bánh đi vào?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": true },
+        { "id": 2, "content": "Biển 2.", "correct": false },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-nao-cho-phep-mo-to-hai-banh-di-vao.jpg"
+    },
+    {
+      "id": 17,
+      "exam_id": 1,
+      "question": "Xe nào vi phạm quy tắc giao thông?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe tải.", "correct": false },
+        { "id": 3, "content": "Xe khách.", "correct": true }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-xe-vi-pham-quy-tac.jpg"
+    },
+    {
+      "id": 18,
+      "exam_id": 1,
+      "question": "Khi điều khiển xe chạy với tốc độ dưới 60km/h, để đảm bảo khoảng cách an toàn giữa hai xe, người lái xe phải điều khiển xe như thế nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Chủ động giữ khoảng cách an toàn phù hợp với xe phía trước.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Bám sát xe phía trước để tránh bị xe khác chen vào.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Tăng tốc để nhanh chóng vượt qua các xe khác.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 19,
+      "exam_id": 1,
+      "question": "Tại nơi đường giao nhau, người lái xe đang đi trên đường không ưu tiên phải nhường đường như thế nào là đúng quy tắc giao thông?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Nhường đường cho xe đi ở bên phải mình tới.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Nhường đường cho xe đi ở bên trái mình tới.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 20,
+      "exam_id": 1,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Hết tốc độ tối đa cho phép.", "correct": true },
+        { "id": 2, "content": "Hết mọi lệnh cấm.", "correct": false },
+        {
+          "id": 3,
+          "content": "Hết tốc độ tối thiểu cho phép.",
+          "correct": false
+        }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-het-han-che-toc-do-toi-da.jpg"
+    },
+    {
+      "id": 21,
+      "exam_id": 1,
+      "question": "Khi gặp biển báo này, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Dừng lại và nhường đường cho xe điện.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Dừng lại và nhường đường cho xe lửa.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Dừng lại và nhường đường cho xe đạp.",
+          "correct": false
+        }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-giao-nhau-voi-duong-sat.jpg"
+    },
+    {
+      "id": 22,
+      "exam_id": 1,
+      "question": "Trong tình huống dưới đây, xe con màu xanh và xe máy phía sau xe container đi như thế nào để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Vượt về phía bên phải để đi tiếp.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ chờ xe container rẽ xong rồi tiếp tục đi.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Vượt về phía bên trái để đi tiếp.",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-xe-container-re-phai.jpg"
+    },
+    {
+      "id": 23,
+      "exam_id": 1,
+      "question": "Hành vi buông cả hai tay khi đang điều khiển xe mô tô có bị nghiêm cấm hay không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Bị nghiêm cấm.", "correct": true },
+        {
+          "id": 2,
+          "content": "Không bị nghiêm cấm, nếu điều kiện đường an toàn.",
+          "correct": false
+        },
+        { "id": 3, "content": "Tùy trường hợp.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 24,
+      "exam_id": 1,
+      "question": "Người điều khiển xe mô tô hai bánh, ba bánh, xe gắn máy có được phép sử dụng xe để kéo hoặc đẩy các phương tiện khác khi tham gia giao thông không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Được phép.", "correct": false },
+        {
+          "id": 2,
+          "content": "Nếu phương tiện được kéo, đẩy có khối lượng nhỏ hơn phương tiện của mình.",
+          "correct": false
+        },
+        { "id": 3, "content": "Không được phép.", "correct": true }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 25,
+      "exam_id": 1,
+      "question": "Khi di chuyển trên đường có vạch kẻ phân làn đường, người lái xe phải xử lý như thế nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đi đúng làn đường quy định, chỉ chuyển làn ở nơi cho phép và có tín hiệu báo trước.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Có thể chuyển làn bất cứ lúc nào nếu thấy an toàn.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Đi sát vạch kẻ đường để tránh va chạm.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 26,
+      "exam_id": 2,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Cấm ô tô con.", "correct": true },
+        { "id": 2, "content": "Cấm xe tải.", "correct": false },
+        { "id": 3, "content": "Cấm mọi loại xe.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cam-o-to.jpg"
+    },
+    {
+      "id": 27,
+      "exam_id": 2,
+      "question": "Khi gặp biển báo này, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ, chú ý đường gồ ghề.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Tăng tốc độ để vượt qua đoạn đường khó.",
+          "correct": false
+        },
+        { "id": 3, "content": "Đi bình thường.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-go-ghe.jpg"
+    },
+    {
+      "id": 28,
+      "exam_id": 2,
+      "question": "Xe nào đỗ vi phạm quy tắc giao thông?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe mô tô.", "correct": true },
+        { "id": 3, "content": "Cả hai xe.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-xe-do-vi-pham.jpg"
+    },
+    {
+      "id": 29,
+      "exam_id": 2,
+      "question": "Việc sử dụng còi trong khu dân cư vào ban đêm (từ 22 giờ đến 5 giờ sáng) có bị nghiêm cấm hay không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Bị nghiêm cấm.", "correct": true },
+        { "id": 2, "content": "Không bị nghiêm cấm.", "correct": false },
+        {
+          "id": 3,
+          "content": "Được sử dụng khi cần vượt xe khác.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 30,
+      "exam_id": 2,
+      "question": "Khi điều khiển xe mô tô trên đường vòng, đường đèo dốc, người lái xe phải thực hiện như thế nào để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đi chậm, đi sát lề đường bên phải, không được vượt.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Tăng tốc để nhanh chóng qua khúc cua.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Đi vào giữa đường để dễ quan sát.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 31,
+      "exam_id": 2,
+      "question": "Biển báo nào báo hiệu hết đường ưu tiên?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": false },
+        { "id": 2, "content": "Biển 2.", "correct": true },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-het-duong-uu-tien.jpg"
+    },
+    {
+      "id": 32,
+      "exam_id": 2,
+      "question": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con, xe tải.", "correct": false },
+        { "id": 2, "content": "Xe tải, xe con.", "correct": true },
+        {
+          "id": 3,
+          "content": "Xe con đi trước, sau đó là xe tải.",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-uu-tien-truc-chinh.jpg"
+    },
+    {
+      "id": 33,
+      "exam_id": 2,
+      "question": "Người điều khiển xe mô tô hai bánh, ba bánh, xe gắn máy có được kéo theo xe khác không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được phép nếu xe được kéo có khối lượng nhỏ.",
+          "correct": false
+        },
+        { "id": 2, "content": "Không được phép.", "correct": true },
+        {
+          "id": 3,
+          "content": "Được phép trong trường hợp khẩn cấp.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 34,
+      "exam_id": 2,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đường dành cho người đi bộ.", "correct": true },
+        { "id": 2, "content": "Cấm người đi bộ.", "correct": false },
+        { "id": 3, "content": "Nơi có nhiều người đi bộ.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-danh-cho-nguoi-di-bo.jpg"
+    },
+    {
+      "id": 35,
+      "exam_id": 2,
+      "question": "Khi điều khiển xe trên đường trơn trượt, người lái xe phải thực hiện thao tác nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ, đi số thấp, không phanh gấp, không đánh lái đột ngột.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Tăng tốc để nhanh chóng thoát khỏi đoạn đường trơn trượt.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Giữ nguyên tốc độ, phanh nhẹ để thử độ bám đường.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 36,
+      "exam_id": 2,
+      "question": "Xe nào phải nhường đường trong trường hợp này?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe mô tô.", "correct": true },
+        { "id": 3, "content": "Không xe nào phải nhường.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-xe-o-nga-ba.jpg"
+    },
+    {
+      "id": 37,
+      "exam_id": 2,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Nguy hiểm đường trượt.", "correct": true },
+        { "id": 2, "content": "Nguy hiểm đường dốc.", "correct": false },
+        { "id": 3, "content": "Nguy hiểm đường cua.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-nguy-hiem-duong-truot.jpg"
+    },
+    {
+      "id": 38,
+      "exam_id": 2,
+      "question": "Khi điều khiển xe mô tô trên đường hẹp có nhiều chướng ngại vật, người lái xe phải làm gì để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đi chậm, quan sát kỹ, nhường đường cho xe ngược chiều nếu cần.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Bấm còi liên tục để các xe khác tránh đường.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Tăng tốc để nhanh chóng thoát khỏi đoạn đường hẹp.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 39,
+      "exam_id": 2,
+      "question": "Khi điều khiển xe mô tô trên đường xuống dốc, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm số, giữ tay ga ổn định để hãm tốc độ.",
+          "correct": true
+        },
+        { "id": 2, "content": "Tăng số để xe đi nhanh hơn.", "correct": false },
+        { "id": 3, "content": "Tắt máy để xe tự trôi.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 40,
+      "exam_id": 2,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Cấm dừng và đỗ xe.", "correct": true },
+        { "id": 2, "content": "Cấm đỗ xe.", "correct": false },
+        { "id": 3, "content": "Cấm dừng xe.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cam-dung-do.jpg"
+    },
+    {
+      "id": 41,
+      "exam_id": 2,
+      "question": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông khi có tín hiệu đèn giao thông?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Xe con, xe tải, xe khách, xe mô tô.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Xe con, xe tải đi trước, sau đó xe khách và xe mô tô đi.",
+          "correct": true
+        },
+        { "id": 3, "content": "Tất cả các xe dừng lại.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-den-giao-thong.jpg"
+    },
+    {
+      "id": 42,
+      "exam_id": 2,
+      "question": "Khi tham gia giao thông, người lái xe có được sử dụng điện thoại di động cầm tay không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được phép nếu sử dụng tai nghe bluetooth.",
+          "correct": false
+        },
+        { "id": 2, "content": "Không được phép.", "correct": true },
+        {
+          "id": 3,
+          "content": "Được phép nếu có việc khẩn cấp.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 43,
+      "exam_id": 2,
+      "question": "Người điều khiển xe mô tô khi dừng xe, đỗ xe trên đường phố phải thực hiện như thế nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Dừng, đỗ xe sát lề đường, hè phố bên phải theo chiều đi của mình.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Có thể dừng, đỗ ở bất kỳ vị trí nào thấy thuận tiện.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Dừng, đỗ xe ở giữa lòng đường để tránh cản trở giao thông trên vỉa hè.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 44,
+      "exam_id": 2,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giao nhau với đường sắt có rào chắn.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giao nhau với đường sắt không có rào chắn.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Giao nhau với đường tàu điện.",
+          "correct": false
+        }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-giao-nhau-voi-duong-sat-khong-rao-chan.jpg"
+    },
+    {
+      "id": 45,
+      "exam_id": 2,
+      "question": "Biển báo này cho biết điều gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Nơi giao nhau có tín hiệu đèn.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Nơi giao nhau không có tín hiệu đèn.",
+          "correct": false
+        },
+        { "id": 3, "content": "Nơi giao nhau có vòng xuyến.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-giao-nhau-co-tin-hieu-den.jpg"
+    },
+    {
+      "id": 46,
+      "exam_id": 2,
+      "question": "Xe nào được phép đi trước trong hình dưới đây?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe mô tô.", "correct": true },
+        { "id": 3, "content": "Cả hai xe cùng đi.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-uu-tien-xe-re-trai.jpg"
+    },
+    {
+      "id": 47,
+      "exam_id": 2,
+      "question": "Người lái xe phải làm gì khi điều khiển xe vào ban đêm trên đường không có đèn chiếu sáng?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ, bật đèn chiếu xa, khi gặp xe đi ngược chiều thì chuyển sang đèn chiếu gần.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Giữ nguyên tốc độ, bật đèn chiếu xa liên tục.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Tăng tốc để nhanh chóng qua đoạn đường tối.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 48,
+      "exam_id": 2,
+      "question": "Khi điều khiển xe mô tô, người lái xe phải đội mũ bảo hiểm đạt chuẩn, cài quai đúng quy cách trong trường hợp nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Chỉ khi đi trên đường quốc lộ.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Chỉ khi đi trên đường có biển báo bắt buộc đội mũ bảo hiểm.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Khi tham gia giao thông đường bộ.",
+          "correct": true
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 49,
+      "exam_id": 2,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Chỉ dẫn đường cụt.", "correct": false },
+        { "id": 2, "content": "Chỉ dẫn đường hai chiều.", "correct": true },
+        {
+          "id": 3,
+          "content": "Chỉ dẫn đường cấm đi ngược chiều.",
+          "correct": false
+        }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-hai-chieu.jpg"
+    },
+    {
+      "id": 50,
+      "exam_id": 2,
+      "question": "Trong hình dưới đây, xe nào đỗ đúng quy tắc giao thông?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": true },
+        { "id": 2, "content": "Xe mô tô.", "correct": false },
+        { "id": 3, "content": "Cả hai xe.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-xe-do-dung-sai.jpg"
+    },
+    {
+      "id": 51,
+      "exam_id": 3,
+      "question": "Người đủ bao nhiêu tuổi trở lên thì được lái xe mô tô hai bánh có dung tích xi lanh từ 50 cm3 đến dưới 175 cm3?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đủ 16 tuổi.", "correct": false },
+        { "id": 2, "content": "Đủ 18 tuổi.", "correct": true },
+        { "id": 3, "content": "Đủ 20 tuổi.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 52,
+      "exam_id": 3,
+      "question": "Người lái xe mô tô hai bánh, ba bánh có được kéo, đẩy xe khác, vật khác khi tham gia giao thông không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được phép nếu xe kéo nhẹ hơn.",
+          "correct": false
+        },
+        { "id": 2, "content": "Không được phép.", "correct": true },
+        {
+          "id": 3,
+          "content": "Được phép nếu đảm bảo an toàn.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 53,
+      "exam_id": 3,
+      "question": "Trên đường bộ, ngoài khu vực đông dân cư, xe mô tô, xe ô tô chở người đến 30 chỗ, xe ô tô tải có trọng tải dưới 3,5 tấn tham gia giao thông với tốc độ tối đa cho phép là bao nhiêu?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "60 km/h.", "correct": false },
+        { "id": 2, "content": "70 km/h.", "correct": false },
+        { "id": 3, "content": "80 km/h.", "correct": true }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 54,
+      "exam_id": 3,
+      "question": "Biển báo nào báo hiệu đường đôi?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": true },
+        { "id": 2, "content": "Biển 2.", "correct": false },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-doi.jpg"
+    },
+    {
+      "id": 55,
+      "exam_id": 3,
+      "question": "Khi muốn dừng xe, người lái xe phải thực hiện thao tác nào để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Quan sát gương, giảm tốc độ, ra tín hiệu rẽ phải để dừng xe.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Dừng xe ngay lập tức khi thấy vật cản.",
+          "correct": false
+        },
+        { "id": 3, "content": "Bật đèn khẩn cấp và dừng xe.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 56,
+      "exam_id": 3,
+      "question": "Trong hình dưới đây, xe nào đỗ đúng quy tắc giao thông?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": true },
+        { "id": 2, "content": "Xe tải.", "correct": false },
+        { "id": 3, "content": "Xe mô tô.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-do-dung-sai.jpg"
+    },
+    {
+      "id": 57,
+      "exam_id": 3,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Cấm ô tô tải.", "correct": true },
+        { "id": 2, "content": "Cấm ô tô con.", "correct": false },
+        { "id": 3, "content": "Cấm mọi loại xe.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cam-o-to-tai.jpg"
+    },
+    {
+      "id": 58,
+      "exam_id": 3,
+      "question": "Khi tham gia giao thông, người lái xe mô tô hai bánh, xe gắn máy có được đi vào phần đường dành cho ô tô không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Được phép nếu đường vắng.", "correct": false },
+        { "id": 2, "content": "Không được phép.", "correct": true },
+        {
+          "id": 3,
+          "content": "Được phép nếu đi sát lề đường.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 59,
+      "exam_id": 3,
+      "question": "Người điều khiển xe mô tô hai bánh có được chở người từ đủ 16 tuổi đến dưới 18 tuổi ngồi sau xe không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được chở tối đa 2 người nếu đảm bảo an toàn.",
+          "correct": true
+        },
+        { "id": 2, "content": "Không được chở.", "correct": false },
+        {
+          "id": 3,
+          "content": "Chỉ được chở 1 người nếu người đó đội mũ bảo hiểm.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 60,
+      "exam_id": 3,
+      "question": "Biển báo nào báo hiệu nguy hiểm đường hẹp hai bên?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": true },
+        { "id": 2, "content": "Biển 2.", "correct": false },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-hep-hai-ben.jpg"
+    },
+    {
+      "id": 61,
+      "exam_id": 3,
+      "question": "Xe nào vi phạm quy tắc giao thông khi rẽ trái?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": true },
+        { "id": 2, "content": "Xe tải.", "correct": false },
+        { "id": 3, "content": "Xe khách.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-re-trai-vi-pham.jpg"
+    },
+    {
+      "id": 62,
+      "exam_id": 3,
+      "question": "Người ngồi trên xe mô tô hai bánh, ba bánh, xe gắn máy khi tham gia giao thông có được đội mũ bảo hiểm kiểu thời trang không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được phép nếu có dán tem kiểm định.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Không được phép, phải đội mũ bảo hiểm đạt chuẩn.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Được phép nếu đó là mũ bảo hiểm của hãng xe.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 63,
+      "exam_id": 3,
+      "question": "Trong trường hợp khẩn cấp, để tránh chướng ngại vật, người lái xe phải thực hiện như thế nào để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc để vượt qua chướng ngại vật.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ và chuyển hướng sang bên an toàn nhất.",
+          "correct": true
+        },
+        { "id": 3, "content": "Dừng xe ngay lập tức.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 64,
+      "exam_id": 3,
+      "question": "Biển báo nào báo hiệu nơi đường bộ giao nhau cùng mức với đường sắt?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": false },
+        { "id": 2, "content": "Biển 2.", "correct": true },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-giao-nhau-voi-duong-sat-cung-muc.jpg"
+    },
+    {
+      "id": 65,
+      "exam_id": 3,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Nơi giao nhau có vòng xuyến.", "correct": true },
+        { "id": 2, "content": "Nơi đường giao nhau.", "correct": false },
+        { "id": 3, "content": "Đường một chiều.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-vong-xuyen.jpg"
+    },
+    {
+      "id": 66,
+      "exam_id": 3,
+      "question": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông trong trường hợp này?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con, xe khách, xe tải.", "correct": false },
+        { "id": 2, "content": "Xe khách, xe con, xe tải.", "correct": true },
+        { "id": 3, "content": "Xe tải, xe con, xe khách.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-uu-tien-xe-qua-nga-ba.jpg"
+    },
+    {
+      "id": 67,
+      "exam_id": 3,
+      "question": "Người điều khiển phương tiện giao thông phải giảm tốc độ đến mức không gây nguy hiểm trong trường hợp nào?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Khi điều khiển xe trong khu dân cư.",
+          "correct": true
+        },
+        { "id": 2, "content": "Khi gặp biển báo nguy hiểm.", "correct": true },
+        {
+          "id": 3,
+          "content": "Khi trời mưa, đường trơn trượt.",
+          "correct": true
+        },
+        { "id": 4, "content": "Khi đường thông thoáng.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 68,
+      "exam_id": 3,
+      "question": "Hành vi nào dưới đây bị nghiêm cấm khi điều khiển xe mô tô, xe gắn máy?",
+      "type": "multiple-choice",
+      "answer": [
+        { "id": 1, "content": "Buông cả hai tay.", "correct": true },
+        {
+          "id": 2,
+          "content": "Sử dụng chân chống quệt xuống đường khi xe đang chạy.",
+          "correct": true
+        },
+        { "id": 3, "content": "Đội mũ bảo hiểm đạt chuẩn.", "correct": false },
+        { "id": 4, "content": "Đi đúng tốc độ cho phép.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 69,
+      "exam_id": 3,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đường bị thu hẹp bên phải.", "correct": true },
+        { "id": 2, "content": "Đường bị thu hẹp bên trái.", "correct": false },
+        { "id": 3, "content": "Đường hẹp cả hai bên.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-hep-ben-phai.jpg"
+    },
+    {
+      "id": 70,
+      "exam_id": 3,
+      "question": "Biển báo nào báo hiệu nguy hiểm đường vòng bên phải?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": true },
+        { "id": 2, "content": "Biển 2.", "correct": false },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-vong-ben-phai.jpg"
+    },
+    {
+      "id": 71,
+      "exam_id": 3,
+      "question": "Trong hình dưới đây, xe nào được phép đi trước?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe mô tô.", "correct": true },
+        { "id": 3, "content": "Xe tải.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-uu-tien-re-trai.jpg"
+    },
+    {
+      "id": 72,
+      "exam_id": 3,
+      "question": "Người điều khiển phương tiện tham gia giao thông trong hầm đường bộ phải tuân thủ quy định nào dưới đây?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Không được lùi xe, quay đầu xe.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Được lùi xe nếu không cản trở giao thông.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Được quay đầu xe nếu có chỗ trống.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 73,
+      "exam_id": 3,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy trên đường có nhiều người đi bộ, người lái xe phải làm gì để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc để nhanh chóng qua khu vực có người đi bộ.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, chú ý quan sát và nhường đường cho người đi bộ.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Bấm còi liên tục để cảnh báo người đi bộ.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 74,
+      "exam_id": 3,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Cấm rẽ phải.", "correct": true },
+        { "id": 2, "content": "Cấm rẽ trái.", "correct": false },
+        { "id": 3, "content": "Được phép rẽ phải.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cam-re-phai.jpg"
+    },
+    {
+      "id": 75,
+      "exam_id": 3,
+      "question": "Trong hình dưới đây, xe nào được phép đi thẳng?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": true },
+        { "id": 2, "content": "Xe tải.", "correct": false },
+        { "id": 3, "content": "Xe khách.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-duoc-di-thang.jpg"
+    },
+    {
+      "id": 76,
+      "exam_id": 4,
+      "question": "Người lái xe mô tô hai bánh được phép vượt xe khác trong trường hợp nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Nơi có vạch kẻ đường liên tục.",
+          "correct": false
+        },
+        { "id": 2, "content": "Trên cầu có một làn xe.", "correct": false },
+        {
+          "id": 3,
+          "content": "Nơi được phép vượt và đảm bảo an toàn.",
+          "correct": true
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 77,
+      "exam_id": 4,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy chuyển hướng, người lái xe phải giảm tốc độ và nhường đường cho các xe nào?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe đi ngược chiều.", "correct": true },
+        { "id": 2, "content": "Xe đi thẳng.", "correct": true },
+        { "id": 3, "content": "Cả hai ý trên.", "correct": true }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 78,
+      "exam_id": 4,
+      "question": "Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người điều khiển phương tiện phải nhường đường như thế nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Nhường đường cho xe đi từ bên trái đến.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Nhường đường cho xe đi từ bên phải đến.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Nhường đường cho xe đi trên đường chính.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 79,
+      "exam_id": 4,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đường cong nguy hiểm bên trái.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Đường cong nguy hiểm bên phải.",
+          "correct": false
+        },
+        { "id": 3, "content": "Đường đôi.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-cong-nguy-hiem-ben-trai.jpg"
+    },
+    {
+      "id": 80,
+      "exam_id": 4,
+      "question": "Người điều khiển xe mô tô, xe gắn máy có được sử dụng ô (dù) khi đang điều khiển xe không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Được phép nếu trời mưa to.", "correct": false },
+        { "id": 2, "content": "Không được phép.", "correct": true },
+        { "id": 3, "content": "Được phép nếu đi chậm.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 81,
+      "exam_id": 4,
+      "question": "Trong hình dưới đây, xe nào được phép đi?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": true },
+        { "id": 2, "content": "Xe khách.", "correct": false },
+        { "id": 3, "content": "Tất cả các xe.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-xe-di-theo-tin-hieu-den.jpg"
+    },
+    {
+      "id": 82,
+      "exam_id": 4,
+      "question": "Biển báo nào báo hiệu hết hạn chế tốc độ tối thiểu?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": false },
+        { "id": 2, "content": "Biển 2.", "correct": true },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-het-toc-do-toi-thieu.jpg"
+    },
+    {
+      "id": 83,
+      "exam_id": 4,
+      "question": "Khi điều khiển xe trên đường có nhiều ổ gà, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc để vượt qua nhanh chóng.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, tránh ổ gà, nếu không tránh được thì đi chậm qua.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Đi sát lề đường để tránh ổ gà.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 84,
+      "exam_id": 4,
+      "question": "Người lái xe mô tô, xe gắn máy có được phép chở người bệnh đi cấp cứu vượt quá số người quy định không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Không được phép.", "correct": false },
+        {
+          "id": 2,
+          "content": "Được phép trong trường hợp khẩn cấp và đảm bảo an toàn.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Chỉ được phép chở thêm 1 người.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 85,
+      "exam_id": 4,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đường giao nhau của các tuyến đường cùng cấp.",
+          "correct": true
+        },
+        { "id": 2, "content": "Đường ưu tiên giao nhau.", "correct": false },
+        { "id": 3, "content": "Đường một chiều.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-giao-nhau-cac-tuyen-duong-cung-cap.jpg"
+    },
+    {
+      "id": 86,
+      "exam_id": 4,
+      "question": "Trong hình dưới đây, xe nào được quyền đi trước?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe mô tô.", "correct": false },
+        { "id": 3, "content": "Cả hai xe đều dừng lại.", "correct": true }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-giao-nhau-voi-duong-sat.jpg"
+    },
+    {
+      "id": 87,
+      "exam_id": 4,
+      "question": "Việc bấm còi liên tục trong khu dân cư có bị nghiêm cấm hay không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Bị nghiêm cấm.", "correct": true },
+        { "id": 2, "content": "Không bị nghiêm cấm.", "correct": false },
+        {
+          "id": 3,
+          "content": "Được phép nếu có xe ưu tiên đi qua.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 88,
+      "exam_id": 4,
+      "question": "Khi lùi xe trên đường, người lái xe phải làm gì để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Quan sát phía sau và bên cạnh, lùi chậm.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Nhìn thẳng phía trước và lùi nhanh.",
+          "correct": false
+        },
+        { "id": 3, "content": "Bấm còi liên tục khi lùi.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 89,
+      "exam_id": 4,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Cấm ô tô và mô tô.", "correct": false },
+        { "id": 2, "content": "Cấm xe kéo rơ moóc.", "correct": true },
+        { "id": 3, "content": "Cấm xe tải.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cam-xe-keo-ro-mooc.jpg"
+    },
+    {
+      "id": 90,
+      "exam_id": 4,
+      "question": "Biển báo nào báo hiệu sắp đến bến phà?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": false },
+        { "id": 2, "content": "Biển 2.", "correct": true },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-ben-pha.jpg"
+    },
+    {
+      "id": 91,
+      "exam_id": 4,
+      "question": "Trong hình dưới đây, xe nào được đi trước?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe mô tô.", "correct": true },
+        { "id": 3, "content": "Xe tải.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-uu-tien-re-trai-khac.jpg"
+    },
+    {
+      "id": 92,
+      "exam_id": 4,
+      "question": "Người điều khiển xe mô tô, xe gắn máy khi chuyển làn đường phải thực hiện như thế nào để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Bật đèn tín hiệu báo rẽ trước khi chuyển làn.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Chuyển làn ngay sau khi bật đèn tín hiệu.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Chỉ chuyển làn khi không có xe phía sau.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 93,
+      "exam_id": 4,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy trên đường cao tốc, người lái xe phải tuân thủ quy định nào dưới đây?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được phép đi vào làn đường khẩn cấp.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Không được đi vào đường cao tốc.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Được phép đi với tốc độ tối đa cho phép của đường cao tốc.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 94,
+      "exam_id": 4,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Giao nhau với đường ưu tiên.", "correct": true },
+        {
+          "id": 2,
+          "content": "Giao nhau với đường không ưu tiên.",
+          "correct": false
+        },
+        { "id": 3, "content": "Giao nhau có tín hiệu đèn.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-giao-nhau-voi-duong-uu-tien.jpg"
+    },
+    {
+      "id": 95,
+      "exam_id": 4,
+      "question": "Biển báo này cấm xe nào đi vào?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Cấm xe ô tô.", "correct": false },
+        { "id": 2, "content": "Cấm xe mô tô.", "correct": false },
+        { "id": 3, "content": "Cấm xe máy kéo.", "correct": true }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cam-xe-may-keo.jpg"
+    },
+    {
+      "id": 96,
+      "exam_id": 4,
+      "question": "Trong hình dưới đây, xe nào đỗ đúng quy định?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe mô tô.", "correct": true },
+        { "id": 3, "content": "Cả hai xe.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-xe-do-dung-sai-nga-tu.jpg"
+    },
+    {
+      "id": 97,
+      "exam_id": 4,
+      "question": "Người lái xe mô tô, xe gắn máy có được sử dụng đèn chiếu xa trong khu dân cư vào ban đêm không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được phép nếu không có xe ngược chiều.",
+          "correct": false
+        },
+        { "id": 2, "content": "Không được phép.", "correct": true },
+        { "id": 3, "content": "Được phép nếu tốc độ thấp.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 98,
+      "exam_id": 4,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy qua đường sắt không có rào chắn, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ, quan sát, nếu an toàn thì cho xe đi qua.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Tăng tốc để nhanh chóng qua đường sắt.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Dừng lại chờ tàu qua rồi mới đi.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 99,
+      "exam_id": 4,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đường cụt.", "correct": true },
+        { "id": 2, "content": "Đường không đi qua được.", "correct": false },
+        { "id": 3, "content": "Đường cấm.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-cut.jpg"
+    },
+    {
+      "id": 100,
+      "exam_id": 4,
+      "question": "Theo tín hiệu đèn, xe nào được phép đi?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con và xe tải.", "correct": false },
+        { "id": 2, "content": "Xe mô tô và xe khách.", "correct": true },
+        { "id": 3, "content": "Tất cả các xe.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-den-xanh-do.jpg"
+    },
+    {
+      "id": 101,
+      "exam_id": 5,
+      "question": "Người điều khiển xe mô tô, xe gắn máy có được phép rẽ phải khi đèn đỏ nếu có biển báo cho phép không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Không được phép.", "correct": false },
+        {
+          "id": 2,
+          "content": "Được phép nếu có biển báo hoặc tín hiệu phụ cho phép.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Chỉ được phép rẽ phải khi không có xe đi thẳng.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 102,
+      "exam_id": 5,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy vào đường một chiều, người lái xe phải tuân thủ quy tắc nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Chỉ được đi một chiều theo hướng quy định.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Được phép đi ngược chiều nếu không có xe.",
+          "correct": false
+        },
+        { "id": 3, "content": "Được phép quay đầu xe.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 103,
+      "exam_id": 5,
+      "question": "Người điều khiển xe mô tô, xe gắn máy có được phép chở người đang sử dụng điện thoại di động không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Không được phép.", "correct": true },
+        {
+          "id": 2,
+          "content": "Được phép nếu người ngồi sau sử dụng tai nghe.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Được phép nếu người ngồi sau sử dụng điện thoại rảnh tay.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 104,
+      "exam_id": 5,
+      "question": "Biển báo nào báo hiệu khu vực đông dân cư?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": true },
+        { "id": 2, "content": "Biển 2.", "correct": false },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-khu-vuc-dong-dan-cu.jpg"
+    },
+    {
+      "id": 105,
+      "exam_id": 5,
+      "question": "Khi đi qua đường sắt, người lái xe phải làm gì để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc để nhanh chóng vượt qua.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, quan sát tàu hỏa, chỉ đi qua khi an toàn.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Bấm còi liên tục để cảnh báo tàu hỏa.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 106,
+      "exam_id": 5,
+      "question": "Thứ tự các xe đi như thế nào là đúng quy tắc giao thông?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con, xe khách, xe mô tô.", "correct": false },
+        { "id": 2, "content": "Xe khách, xe con, xe mô tô.", "correct": true },
+        { "id": 3, "content": "Xe mô tô, xe khách, xe con.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-uu-tien-re-trai-khac-2.jpg"
+    },
+    {
+      "id": 107,
+      "exam_id": 5,
+      "question": "Biển báo nào báo hiệu đường đi bộ cắt ngang?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": true },
+        { "id": 2, "content": "Biển 2.", "correct": false },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-di-bo-cat-ngang.jpg"
+    },
+    {
+      "id": 108,
+      "exam_id": 5,
+      "question": "Trong khu dân cư, tốc độ tối đa cho phép của xe mô tô hai bánh, xe gắn máy là bao nhiêu?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "40 km/h.", "correct": true },
+        { "id": 2, "content": "50 km/h.", "correct": false },
+        { "id": 3, "content": "60 km/h.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 109,
+      "exam_id": 5,
+      "question": "Người ngồi trên xe mô tô hai bánh, ba bánh, xe gắn máy có được sử dụng tai nghe khi đang điều khiển xe không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được phép nếu sử dụng một bên tai nghe.",
+          "correct": false
+        },
+        { "id": 2, "content": "Không được phép.", "correct": true },
+        { "id": 3, "content": "Được phép nếu nghe nhạc nhẹ.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 110,
+      "exam_id": 5,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Hết cấm vượt.", "correct": true },
+        { "id": 2, "content": "Hết mọi lệnh cấm.", "correct": false },
+        { "id": 3, "content": "Hết tốc độ tối đa.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-het-cam-vuot.jpg"
+    },
+    {
+      "id": 111,
+      "exam_id": 5,
+      "question": "Xe nào được phép đi trước trong trường hợp này?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": true },
+        { "id": 2, "content": "Xe mô tô.", "correct": false },
+        { "id": 3, "content": "Xe tải.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-uu-tien-den-vang.jpg"
+    },
+    {
+      "id": 112,
+      "exam_id": 5,
+      "question": "Người điều khiển xe mô tô, xe gắn máy có được phép đi vào đường cấm hay không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Không được phép, trừ trường hợp có giấy phép của cơ quan có thẩm quyền.",
+          "correct": true
+        },
+        { "id": 2, "content": "Được phép nếu đường vắng.", "correct": false },
+        {
+          "id": 3,
+          "content": "Được phép nếu đi vào ban đêm.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 113,
+      "exam_id": 5,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy qua nơi đường bộ giao nhau với đường sắt, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc để nhanh chóng vượt qua.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, quan sát, nếu có chuông báo hoặc rào chắn thì phải dừng lại.",
+          "correct": true
+        },
+        { "id": 3, "content": "Bấm còi liên tục và đi qua.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 114,
+      "exam_id": 5,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đường cao tốc.", "correct": false },
+        { "id": 2, "content": "Đường ưu tiên.", "correct": true },
+        { "id": 3, "content": "Đường dành cho xe cơ giới.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-uu-tien.jpg"
+    },
+    {
+      "id": 115,
+      "exam_id": 5,
+      "question": "Biển báo nào báo hiệu nguy hiểm đường giao nhau với đường sắt có rào chắn?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": true },
+        { "id": 2, "content": "Biển 2.", "correct": false },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-giao-nhau-voi-duong-sat-co-rao-chan.jpg"
+    },
+    {
+      "id": 116,
+      "exam_id": 5,
+      "question": "Xe nào được phép rẽ trái trong trường hợp này?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": true },
+        { "id": 2, "content": "Xe tải.", "correct": false },
+        { "id": 3, "content": "Xe khách.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-duoc-re-trai.jpg"
+    },
+    {
+      "id": 117,
+      "exam_id": 5,
+      "question": "Người điều khiển xe mô tô, xe gắn máy có được phép chở quá số người quy định không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Không được phép, trừ trường hợp được pháp luật cho phép.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Được phép nếu chở trẻ em dưới 6 tuổi.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Được phép nếu chở người bệnh đi cấp cứu.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 118,
+      "exam_id": 5,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy vào ban đêm, người lái xe phải làm gì để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ, bật đèn chiếu gần, nếu cần mới bật đèn chiếu xa.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Bật đèn chiếu xa liên tục để nhìn rõ đường.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Tăng tốc để nhanh chóng qua đoạn đường tối.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 119,
+      "exam_id": 5,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đường đi bộ.", "correct": false },
+        { "id": 2, "content": "Nơi có trẻ em.", "correct": true },
+        { "id": 3, "content": "Khu vui chơi trẻ em.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-noi-co-tre-em.jpg"
+    },
+    {
+      "id": 120,
+      "exam_id": 5,
+      "question": "Biển báo nào báo hiệu nguy hiểm đường xuống dốc nguy hiểm?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": false },
+        { "id": 2, "content": "Biển 2.", "correct": false },
+        { "id": 3, "content": "Biển 3.", "correct": true }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-xuong-doc-nguy-hiem.jpg"
+    },
+    {
+      "id": 121,
+      "exam_id": 5,
+      "question": "Trong hình dưới đây, xe nào vi phạm quy tắc giao thông?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe mô tô.", "correct": true },
+        { "id": 3, "content": "Xe tải.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-xe-vi-pham-den-do.jpg"
+    },
+    {
+      "id": 122,
+      "exam_id": 5,
+      "question": "Người lái xe mô tô, xe gắn máy có được phép đi vào đường có biển báo cấm xe mô tô, xe gắn máy không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Không được phép.", "correct": true },
+        {
+          "id": 2,
+          "content": "Được phép nếu đi vào ban đêm.",
+          "correct": false
+        },
+        { "id": 3, "content": "Được phép nếu đường vắng.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 123,
+      "exam_id": 5,
+      "question": "Khi dừng xe, đỗ xe trên đường có dốc, người lái xe phải làm gì để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Kéo phanh tay, cài số, chèn bánh xe nếu cần.",
+          "correct": true
+        },
+        { "id": 2, "content": "Tắt máy và để xe tự trôi.", "correct": false },
+        { "id": 3, "content": "Chỉ kéo phanh tay.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 124,
+      "exam_id": 5,
+      "question": "Biển báo nào báo hiệu hết đường dành cho xe ô tô?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": false },
+        { "id": 2, "content": "Biển 2.", "correct": true },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-het-duong-o-to.jpg"
+    },
+    {
+      "id": 125,
+      "exam_id": 5,
+      "question": "Trong hình dưới đây, xe nào được quyền đi trước?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": true },
+        { "id": 2, "content": "Xe mô tô.", "correct": false },
+        { "id": 3, "content": "Xe tải.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-uu-tien-duong-phu.jpg"
+    },
+    {
+      "id": 126,
+      "exam_id": 6,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy đi trên đường vòng, người lái xe phải giảm tốc độ và đi như thế nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đi vào phần đường bên phải theo chiều đi của mình.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Đi vào giữa đường để dễ quan sát.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Đi vào phần đường bên trái để tránh chướng ngại vật.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 127,
+      "exam_id": 6,
+      "question": "Người ngồi trên xe mô tô hai bánh, ba bánh, xe gắn máy có được mang vác vật cồng kềnh gây cản trở giao thông không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Không được phép.", "correct": true },
+        { "id": 2, "content": "Được phép nếu vật đó nhẹ.", "correct": false },
+        { "id": 3, "content": "Được phép nếu đi chậm.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 128,
+      "exam_id": 6,
+      "question": "Khi điều khiển xe trên đường có biển báo 'chướng ngại vật phía trước', người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ, quan sát, chuẩn bị xử lý tình huống.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Tăng tốc để nhanh chóng vượt qua.",
+          "correct": false
+        },
+        { "id": 3, "content": "Dừng xe ngay lập tức.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 129,
+      "exam_id": 6,
+      "question": "Biển báo nào báo hiệu có dốc lên nguy hiểm?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": true },
+        { "id": 2, "content": "Biển 2.", "correct": false },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-doc-len-nguy-hiem.jpg"
+    },
+    {
+      "id": 130,
+      "exam_id": 6,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy trên đường đèo dốc, người lái xe phải thực hiện như thế nào để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đi số thấp, giữ đều ga, không tắt máy khi xuống dốc.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Tắt máy để tiết kiệm nhiên liệu.",
+          "correct": false
+        },
+        { "id": 3, "content": "Về số mo khi xuống dốc.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 131,
+      "exam_id": 6,
+      "question": "Trong hình dưới đây, xe con màu xanh được phép đi theo hướng nào?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đi thẳng.", "correct": false },
+        { "id": 2, "content": "Rẽ phải.", "correct": false },
+        { "id": 3, "content": "Đi thẳng và rẽ phải.", "correct": true }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-huong-di-cung-den.jpg"
+    },
+    {
+      "id": 132,
+      "exam_id": 6,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Giao nhau có tín hiệu đèn.", "correct": false },
+        {
+          "id": 2,
+          "content": "Giao nhau với đường ưu tiên.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Nơi giao nhau có đèn tín hiệu giao thông.",
+          "correct": true
+        }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-giao-nhau-co-den-tin-hieu.jpg"
+    },
+    {
+      "id": 133,
+      "exam_id": 6,
+      "question": "Người điều khiển xe mô tô, xe gắn máy có được phép sử dụng ô (dù), điện thoại di động khi đang điều khiển xe không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được phép nếu đảm bảo an toàn.",
+          "correct": false
+        },
+        { "id": 2, "content": "Không được phép.", "correct": true },
+        {
+          "id": 3,
+          "content": "Được phép nếu sử dụng thiết bị rảnh tay.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 134,
+      "exam_id": 6,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy vượt xe khác, người lái xe phải thực hiện như thế nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Bật đèn tín hiệu báo xin vượt, quan sát an toàn và vượt bên trái.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Vượt bên phải nếu xe phía trước đi chậm.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Vượt không cần tín hiệu báo trước nếu đường vắng.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 135,
+      "exam_id": 6,
+      "question": "Biển báo nào báo hiệu hết đoạn đường đôi?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": false },
+        { "id": 2, "content": "Biển 2.", "correct": true },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-het-duong-doi.jpg"
+    },
+    {
+      "id": 136,
+      "exam_id": 6,
+      "question": "Trong hình dưới đây, xe nào vi phạm quy tắc giao thông khi dừng, đỗ?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe mô tô.", "correct": true },
+        { "id": 3, "content": "Xe khách.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-vi-pham-dung-do.jpg"
+    },
+    {
+      "id": 137,
+      "exam_id": 6,
+      "question": "Người điều khiển xe mô tô, xe gắn máy có được phép đi xe dàn hàng ngang từ 3 xe trở lên không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Không được phép.", "correct": true },
+        {
+          "id": 2,
+          "content": "Được phép nếu đi trong đoàn diễu hành.",
+          "correct": false
+        },
+        { "id": 3, "content": "Được phép nếu đi chậm.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 138,
+      "exam_id": 6,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy trên đường có làn đường dành riêng cho xe ô tô, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đi vào làn đường dành cho ô tô để tránh tắc đường.",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Đi đúng làn đường của mình, không lấn sang làn của ô tô.",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Chỉ đi vào làn ô tô khi muốn vượt.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 139,
+      "exam_id": 6,
+      "question": "Biển báo này có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Hết cấm rẽ trái.", "correct": true },
+        { "id": 2, "content": "Hết cấm rẽ phải.", "correct": false },
+        { "id": 3, "content": "Hết cấm quay đầu.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-het-cam-re-trai.jpg"
+    },
+    {
+      "id": 140,
+      "exam_id": 6,
+      "question": "Biển báo nào báo hiệu đường có ổ gà, lồi lõm?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": false },
+        { "id": 2, "content": "Biển 2.", "correct": true },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-duong-go-ghề.jpg"
+    },
+    {
+      "id": 141,
+      "exam_id": 6,
+      "question": "Trong hình dưới đây, xe con màu xanh đi như thế nào là đúng quy tắc giao thông?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Dừng lại trước vạch dừng.", "correct": true },
+        { "id": 2, "content": "Đi tiếp.", "correct": false },
+        { "id": 3, "content": "Đi chậm và quan sát.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-den-do.jpg"
+    },
+    {
+      "id": 142,
+      "exam_id": 6,
+      "question": "Người lái xe mô tô, xe gắn máy có được phép đua xe trái phép không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Không được phép.", "correct": true },
+        {
+          "id": 2,
+          "content": "Được phép nếu có sự cho phép của chính quyền địa phương.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Được phép nếu không gây nguy hiểm cho người khác.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 143,
+      "exam_id": 6,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy vào đường cong, người lái xe phải làm gì để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ, đi đúng phần đường, giữ vững tay lái.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Tăng tốc để nhanh chóng vượt qua khúc cua.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Đi sát vào lề đường bên trái để mở rộng tầm nhìn.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 144,
+      "exam_id": 6,
+      "question": "Biển báo nào báo hiệu cầu vượt liên thông?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": false },
+        { "id": 2, "content": "Biển 2.", "correct": true },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cau-vuot-lien-thong.jpg"
+    },
+    {
+      "id": 145,
+      "exam_id": 6,
+      "question": "Biển báo nào báo hiệu đường cấm xe tải?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": true },
+        { "id": 2, "content": "Biển 2.", "correct": false },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cam-xe-tai.jpg"
+    },
+    {
+      "id": 146,
+      "exam_id": 6,
+      "question": "Trong hình dưới đây, xe nào được phép đi thẳng?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Xe con.", "correct": false },
+        { "id": 2, "content": "Xe tải.", "correct": false },
+        { "id": 3, "content": "Xe khách.", "correct": true }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-duoc-di-thang-khac.jpg"
+    },
+    {
+      "id": 147,
+      "exam_id": 6,
+      "question": "Người điều khiển xe mô tô, xe gắn máy có được phép lạng lách, đánh võng trên đường không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Không được phép.", "correct": true },
+        {
+          "id": 2,
+          "content": "Được phép nếu không gây nguy hiểm.",
+          "correct": false
+        },
+        { "id": 3, "content": "Được phép nếu đường vắng.", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": null
+    },
+    {
+      "id": 148,
+      "exam_id": 6,
+      "question": "Khi điều khiển xe mô tô, xe gắn máy qua cầu hẹp, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đi chậm, nhường đường cho xe ngược chiều nếu cần.",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Tăng tốc để nhanh chóng qua cầu.",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Đi vào giữa cầu để tránh va chạm.",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": null
+    },
+    {
+      "id": 149,
+      "exam_id": 6,
+      "question": "Biển báo nào báo hiệu cấm xe ô tô khách?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1.", "correct": true },
+        { "id": 2, "content": "Biển 2.", "correct": false },
+        { "id": 3, "content": "Biển 3.", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Bien-bao-cam-xe-khach.jpg"
+    },
+    {
+      "id": 150,
+      "exam_id": 6,
+      "question": "Trong hình dưới đây, xe con màu xanh đi như thế nào là đúng quy tắc giao thông?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đi thẳng.", "correct": true },
+        { "id": 2, "content": "Rẽ trái.", "correct": false },
+        { "id": 3, "content": "Quay đầu.", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2020/07/Sa-hinh-di-thang-re-trai.jpg"
+    },
+
+    {
+      "id": 151,
+      "exam_id": 7,
+      "question": "Người điều khiển phương tiện tham gia giao thông đường bộ phải giảm tốc độ đến mức không gây nguy hiểm trong trường hợp nào dưới đây?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Khi vượt xe khác", "correct": false },
+        {
+          "id": 2,
+          "content": "Khi cho xe đi qua chỗ đường bộ giao nhau cùng mức với đường sắt",
+          "correct": true
+        },
+        { "id": 3, "content": "Khi cho xe đi qua cầu vượt", "correct": false },
+        { "id": 4, "content": "Khi cho xe đi qua hầm chui", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 152,
+      "exam_id": 7,
+      "question": "Hành vi điều khiển xe cơ giới chạy quá tốc độ quy định, giành đường, vượt ẩu có bị nghiêm cấm hay không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Bị nghiêm cấm", "correct": true },
+        { "id": 2, "content": "Không bị nghiêm cấm", "correct": false },
+        {
+          "id": 3,
+          "content": "Bị nghiêm cấm tùy từng trường hợp",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 153,
+      "exam_id": 7,
+      "question": "Biển báo hiệu 'Giao nhau với đường sắt có rào chắn' có ý nghĩa gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Báo hiệu sắp đến chỗ giao nhau với đường sắt không có rào chắn",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Báo hiệu sắp đến chỗ giao nhau với đường sắt có rào chắn",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Báo hiệu sắp đến chỗ giao nhau với đường bộ",
+          "correct": false
+        }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-210.jpg"
+    },
+    {
+      "id": 154,
+      "exam_id": 7,
+      "question": "Người lái xe phải xử lý như thế nào khi quan sát phía trước thấy có chướng ngại vật?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Giảm tốc độ, đi chậm", "correct": false },
+        {
+          "id": 2,
+          "content": "Phanh gấp, chuyển hướng sang làn đường khác",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Giảm tốc độ hoặc dừng lại khi cần thiết trước chướng ngại vật",
+          "correct": true
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 155,
+      "exam_id": 7,
+      "question": "Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, người điều khiển phương tiện phải nhường đường như thế nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Nhường đường cho xe đi từ bên trái đến",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Nhường đường cho xe đi từ bên phải đến",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Nhường đường cho xe đi từ bất kỳ hướng nào tới",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 156,
+      "exam_id": 7,
+      "question": "Biển báo nào báo hiệu 'Đường đôi'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-401.jpg"
+    },
+    {
+      "id": 157,
+      "exam_id": 7,
+      "question": "Người lái xe mô tô hai bánh, xe gắn máy có được đi vào đường cao tốc không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Được đi vào", "correct": false },
+        { "id": 2, "content": "Không được đi vào", "correct": true },
+        {
+          "id": 3,
+          "content": "Được đi vào khi có sự cho phép của cơ quan quản lý đường cao tốc",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 158,
+      "exam_id": 7,
+      "question": "Trong các trường hợp dưới đây, người điều khiển phương tiện tham gia giao thông không được vượt xe khác khi nào?",
+      "type": "multiple-choice",
+      "answer": [
+        { "id": 1, "content": "Trên cầu hẹp có một làn xe", "correct": true },
+        {
+          "id": 2,
+          "content": "Ở nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Khi xe phía trước đang rẽ trái",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 159,
+      "exam_id": 7,
+      "question": "Khi muốn chuyển hướng, người lái xe phải giảm tốc độ và có tín hiệu báo hướng rẽ. Trong các trường hợp sau đây, trường hợp nào không được phép chuyển hướng?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Tại vị trí có biển báo cấm rẽ",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Tại nơi có vạch kẻ đường cho phép chuyển hướng",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 160,
+      "exam_id": 7,
+      "question": "Biển báo nào báo hiệu 'Hết đoạn đường cấm đỗ'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-131-a.jpg"
+    },
+    {
+      "id": 161,
+      "exam_id": 7,
+      "question": "Người điều khiển xe mô tô hai bánh, xe gắn máy có được kéo, đẩy các xe khác, vật khác khi tham gia giao thông không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Được phép", "correct": false },
+        { "id": 2, "content": "Không được phép", "correct": true },
+        { "id": 3, "content": "Được phép nếu kéo vật nhẹ", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 162,
+      "exam_id": 7,
+      "question": "Khi đang đi trên đường mà xe bị hỏng, người lái xe phải xử lý như thế nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Dừng xe ngay lập tức giữa đường để kiểm tra",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Đưa xe vào lề đường hoặc lề đường an toàn, đặt biển cảnh báo và báo hiệu nguy hiểm",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Tiếp tục di chuyển đến gara gần nhất",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 163,
+      "exam_id": 7,
+      "question": "Biển báo nào báo hiệu 'Đường cụt'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-405-b.jpg"
+    },
+    {
+      "id": 164,
+      "exam_id": 7,
+      "question": "Trong trường hợp nào dưới đây, người điều khiển phương tiện tham gia giao thông không được quay đầu xe?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Ở phần đường dành cho người đi bộ qua đường",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Trên cầu, đầu cầu, gầm cầu vượt",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Ở nơi có biển báo cho phép quay đầu",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 165,
+      "exam_id": 7,
+      "question": "Khi điều khiển xe trên đường vòng, người lái xe cần thực hiện các thao tác nào để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc độ để nhanh chóng thoát khỏi đường vòng",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, đi đúng làn đường, không lấn sang làn đường ngược chiều",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Bật đèn pha để chiếu sáng xa hơn",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 166,
+      "exam_id": 7,
+      "question": "Biển báo nào báo hiệu 'Nơi đỗ xe'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-408.jpg"
+    },
+    {
+      "id": 167,
+      "exam_id": 7,
+      "question": "Người ngồi trên xe mô tô hai bánh, xe gắn máy khi tham gia giao thông có được mang, vác vật cồng kềnh không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được phép nếu không gây cản trở giao thông",
+          "correct": false
+        },
+        { "id": 2, "content": "Không được phép", "correct": true },
+        {
+          "id": 3,
+          "content": "Được phép nếu có giấy phép đặc biệt",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 168,
+      "exam_id": 7,
+      "question": "Khi xe ô tô bị hỏng tại nơi đường sắt giao với đường bộ mà không thể di chuyển được, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Cố gắng đẩy xe ra khỏi đường ray",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Nhanh chóng đặt biển cảnh báo và tìm cách báo cho đơn vị quản lý đường sắt",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Chờ đợi sự giúp đỡ của người qua đường",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 169,
+      "exam_id": 7,
+      "question": "Biển báo nào báo hiệu 'Đường một chiều'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-412.jpg"
+    },
+    {
+      "id": 170,
+      "exam_id": 7,
+      "question": "Tại nơi đường bộ giao nhau với đường sắt, quyền ưu tiên thuộc về phương tiện nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Phương tiện giao thông đường bộ",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Phương tiện giao thông đường sắt",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Phương tiện nào đến trước thì được đi trước",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 171,
+      "exam_id": 7,
+      "question": "Khi điều khiển xe vào ban đêm, người lái xe cần chú ý điều gì?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Sử dụng đèn chiếu xa khi không có xe đi ngược chiều",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ và tăng cường quan sát",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Liên tục bật đèn pha cốt để ra hiệu",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 172,
+      "exam_id": 7,
+      "question": "Biển báo nào báo hiệu 'Đường dành cho ô tô'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-403.jpg"
+    },
+    {
+      "id": 173,
+      "exam_id": 7,
+      "question": "Người tham gia giao thông có nghĩa vụ gì khi có tín hiệu đèn giao thông màu vàng?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Dừng lại trước vạch dừng, trừ trường hợp đã vượt quá vạch dừng thì được đi tiếp",
+          "correct": true
+        },
+        { "id": 2, "content": "Nhanh chóng đi qua giao lộ", "correct": false },
+        { "id": 3, "content": "Dừng lại ngay lập tức", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 174,
+      "exam_id": 7,
+      "question": "Trong trường hợp xe bị chết máy đột ngột trên đường đèo dốc, người lái xe phải xử lý như thế nào?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Kéo phanh tay và gọi cứu hộ", "correct": false },
+        {
+          "id": 2,
+          "content": "Về số thấp và sử dụng phanh động cơ kết hợp phanh chân để kiểm soát tốc độ",
+          "correct": true
+        },
+        { "id": 3, "content": "Tắt máy và để xe trôi tự do", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 175,
+      "exam_id": 7,
+      "question": "Biển báo nào báo hiệu 'Đi chậm'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-420.jpg"
+    },
+    {
+      "id": 176,
+      "exam_id": 8,
+      "question": "Người tham gia giao thông phải đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định; chỉ được chuyển làn đường ở những nơi cho phép. Đúng hay sai?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đúng", "correct": true },
+        { "id": 2, "content": "Sai", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 177,
+      "exam_id": 8,
+      "question": "Khi điều khiển xe ô tô rẽ phải ở nơi đường giao nhau, người lái xe cần thực hiện các thao tác nào?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ, bật đèn tín hiệu rẽ phải",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Kiểm tra gương chiếu hậu phía phải để đảm bảo an toàn",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Tăng tốc để nhanh chóng vượt qua giao lộ",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 178,
+      "exam_id": 8,
+      "question": "Biển báo nào báo hiệu 'Giao nhau với đường không ưu tiên'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-208.jpg"
+    },
+    {
+      "id": 179,
+      "exam_id": 8,
+      "question": "Hành vi nào dưới đây bị nghiêm cấm khi điều khiển phương tiện tham gia giao thông?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Chuyển làn đường không có tín hiệu báo trước",
+          "correct": true
+        },
+        { "id": 2, "content": "Dừng xe, đỗ xe trái quy định", "correct": true },
+        {
+          "id": 3,
+          "content": "Bật đèn pha khi đi trong khu dân cư",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 180,
+      "exam_id": 8,
+      "question": "Khi xe ô tô đang chạy với tốc độ cao, muốn dừng xe khẩn cấp, người lái xe cần thực hiện thao tác nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Nhả hết chân ga, đạp phanh từ từ",
+          "correct": false
+        },
+        { "id": 2, "content": "Đạp hết côn, đạp phanh mạnh", "correct": false },
+        {
+          "id": 3,
+          "content": "Đạp hết phanh đồng thời kết hợp phanh động cơ (đối với xe số sàn) hoặc phanh bằng cấp số thấp (đối với xe số tự động)",
+          "correct": true
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 181,
+      "exam_id": 8,
+      "question": "Biển báo nào báo hiệu 'Đường hầm'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-219.jpg"
+    },
+    {
+      "id": 182,
+      "exam_id": 8,
+      "question": "Trong các trường hợp dưới đây, người điều khiển xe mô tô hai bánh, xe gắn máy được phép chở tối đa mấy người?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Một người", "correct": false },
+        {
+          "id": 2,
+          "content": "Hai người, nếu chở người bệnh đi cấp cứu hoặc áp giải người có hành vi vi phạm pháp luật",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Ba người trong mọi trường hợp",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 183,
+      "exam_id": 8,
+      "question": "Khi phát hiện xe phía trước có tín hiệu xin vượt, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc độ để không cho xe phía sau vượt",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, đi sát lề đường bên phải và nhường đường cho xe phía sau vượt",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Chuyển làn đường để tránh xe phía sau",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 184,
+      "exam_id": 8,
+      "question": "Biển báo nào báo hiệu 'Đường dành cho người đi bộ'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-409.jpg"
+    },
+    {
+      "id": 185,
+      "exam_id": 8,
+      "question": "Trong trường hợp xe mô tô, xe gắn máy bị tai nạn và người lái xe bị thương nặng, người chứng kiến tai nạn phải làm gì?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Bảo vệ hiện trường, đặt biển cảnh báo",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Sơ cứu người bị nạn và gọi cấp cứu",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Nhanh chóng rời khỏi hiện trường",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 186,
+      "exam_id": 8,
+      "question": "Người lái xe không được dừng xe, đỗ xe tại các vị trí nào?",
+      "type": "multiple-choice",
+      "answer": [
+        { "id": 1, "content": "Bên trái đường một chiều", "correct": true },
+        { "id": 2, "content": "Trên cầu, gầm cầu vượt", "correct": true },
+        {
+          "id": 3,
+          "content": "Nơi có biển báo cho phép đỗ xe",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 187,
+      "exam_id": 8,
+      "question": "Biển báo nào báo hiệu 'Đường trơn'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-217.jpg"
+    },
+    {
+      "id": 188,
+      "exam_id": 8,
+      "question": "Khi điều khiển xe ô tô qua đường sắt không có rào chắn, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Nhìn hai phía đường sắt, đảm bảo an toàn rồi cho xe qua",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Tăng tốc để nhanh chóng vượt qua đường sắt",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Bật đèn pha và còi liên tục khi qua",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 189,
+      "exam_id": 8,
+      "question": "Biển báo nào báo hiệu 'Cấm xe ô tô rẽ phải'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-124-b.jpg"
+    },
+    {
+      "id": 190,
+      "exam_id": 8,
+      "question": "Người điều khiển xe mô tô hai bánh, xe gắn máy có được sử dụng điện thoại di động khi đang lái xe không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được phép nếu sử dụng tai nghe",
+          "correct": false
+        },
+        { "id": 2, "content": "Không được phép", "correct": true },
+        {
+          "id": 3,
+          "content": "Được phép nếu xe đang dừng đỗ",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 191,
+      "exam_id": 8,
+      "question": "Khi có xe cứu hỏa, xe cứu thương đang làm nhiệm vụ khẩn cấp đi đến, người tham gia giao thông phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Tăng tốc độ để tránh", "correct": false },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, nhường đường và đi sát vào lề đường hoặc dừng lại",
+          "correct": true
+        },
+        { "id": 3, "content": "Tiếp tục đi bình thường", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 192,
+      "exam_id": 8,
+      "question": "Biển báo nào báo hiệu 'Cấm ô tô và xe máy'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-122.jpg"
+    },
+    {
+      "id": 193,
+      "exam_id": 8,
+      "question": "Khi lái xe ô tô qua đường gồ ghề, người lái xe cần chú ý điều gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc độ để xe vượt qua nhanh",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ và đi từ từ để tránh xóc nảy, hỏng hóc xe",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Đi sát lề đường để tránh các xe khác",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 194,
+      "exam_id": 8,
+      "question": "Biển báo nào báo hiệu 'Hết tốc độ tối thiểu'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-128.jpg"
+    },
+    {
+      "id": 195,
+      "exam_id": 8,
+      "question": "Người ngồi trên xe mô tô hai bánh, xe gắn máy có được đội mũ bảo hiểm có cài quai đúng quy cách khi tham gia giao thông không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Có", "correct": true },
+        { "id": 2, "content": "Không", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 196,
+      "exam_id": 8,
+      "question": "Khi lái xe trên đường đèo dốc, người lái xe cần chú ý điều gì để đảm bảo an toàn?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Không rà phanh liên tục khi xuống dốc",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Giữ khoảng cách an toàn với xe phía trước",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Tăng tốc khi lên dốc để nhanh chóng vượt qua",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 197,
+      "exam_id": 8,
+      "question": "Biển báo nào báo hiệu 'Cấm đi ngược chiều'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-102.jpg"
+    },
+    {
+      "id": 198,
+      "exam_id": 8,
+      "question": "Tại nơi đường giao nhau không có tín hiệu đèn, người lái xe phải nhường đường như thế nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Nhường đường cho xe đi từ bên phải đến",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Nhường đường cho xe đi từ bên trái đến",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Phương tiện nào đến trước thì được đi trước",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 199,
+      "exam_id": 8,
+      "question": "Khi điều khiển xe ô tô trên đường cao tốc, người lái xe cần tuân thủ các quy định nào?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đi đúng tốc độ cho phép và giữ khoảng cách an toàn",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Không lùi xe, quay đầu xe trên đường cao tốc",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Có thể dừng đỗ tùy ý ở lề đường",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 200,
+      "exam_id": 8,
+      "question": "Biển báo nào báo hiệu 'Nguy hiểm có trẻ em'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-225.jpg"
+    },
+    {
+      "id": 201,
+      "exam_id": 9,
+      "question": "Người đủ bao nhiêu tuổi trở lên thì được lái xe mô tô hai bánh có dung tích xi lanh từ 50 cm3 đến dưới 175 cm3?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "16 tuổi", "correct": false },
+        { "id": 2, "content": "18 tuổi", "correct": true },
+        { "id": 3, "content": "20 tuổi", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 202,
+      "exam_id": 9,
+      "question": "Khi điều khiển xe vào đường hẹp, người lái xe cần chú ý điều gì để đảm bảo an toàn?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc độ để nhanh chóng thoát khỏi đường hẹp",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, quan sát kỹ hai bên và đi chậm",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Bấm còi liên tục để các xe khác tránh đường",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 203,
+      "exam_id": 9,
+      "question": "Biển báo nào báo hiệu 'Cấm dừng và đỗ xe'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-130.jpg"
+    },
+    {
+      "id": 204,
+      "exam_id": 9,
+      "question": "Người lái xe phải tuân thủ quy định nào về tốc độ khi điều khiển xe trên đường?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đi đúng tốc độ cho phép và giữ khoảng cách an toàn với xe phía trước",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Có thể vượt quá tốc độ nếu đường vắng",
+          "correct": false
+        },
+        { "id": 3, "content": "Đi chậm hơn tốc độ tối thiểu", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 205,
+      "exam_id": 9,
+      "question": "Khi đi qua đoạn đường có nhiều xe đỗ lề đường, người lái xe cần chú ý điều gì?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ và chú ý quan sát các cửa xe có thể mở bất ngờ",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Giữ khoảng cách an toàn với các xe đỗ",
+          "correct": true
+        },
+        { "id": 3, "content": "Bấm còi liên tục để cảnh báo", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 206,
+      "exam_id": 9,
+      "question": "Biển báo nào báo hiệu 'Cấm xe đạp'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-103-e.jpg"
+    },
+    {
+      "id": 207,
+      "exam_id": 9,
+      "question": "Trong trường hợp khẩn cấp, người lái xe có được vượt đèn đỏ không?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Không được vượt trong mọi trường hợp",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Được phép nếu có tín hiệu ưu tiên",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Được phép nếu không gây nguy hiểm",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 208,
+      "exam_id": 9,
+      "question": "Khi xe bị thủng lốp trên đường, người lái xe phải làm gì để đảm bảo an toàn?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ, bật đèn cảnh báo nguy hiểm",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Đưa xe vào vị trí an toàn trên lề đường hoặc khu vực cho phép dừng đỗ",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Tiếp tục chạy cho đến khi tìm được gara sửa chữa",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 209,
+      "exam_id": 9,
+      "question": "Biển báo nào báo hiệu 'Đường dành cho xe thô sơ'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-410.jpg"
+    },
+    {
+      "id": 210,
+      "exam_id": 9,
+      "question": "Người tham gia giao thông có trách nhiệm chấp hành các tín hiệu, hiệu lệnh của người điều khiển giao thông. Đúng hay sai?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đúng", "correct": true },
+        { "id": 2, "content": "Sai", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 211,
+      "exam_id": 9,
+      "question": "Khi điều khiển xe ô tô trên đường trơn trượt, người lái xe cần chú ý điều gì?",
+      "type": "multiple-choice",
+      "answer": [
+        { "id": 1, "content": "Giảm tốc độ, đi số thấp", "correct": true },
+        {
+          "id": 2,
+          "content": "Không phanh gấp, không đánh lái đột ngột",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Tăng tốc để nhanh chóng thoát khỏi đoạn đường trơn",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 212,
+      "exam_id": 9,
+      "question": "Biển báo nào báo hiệu 'Khu dân cư'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-420.jpg"
+    },
+    {
+      "id": 213,
+      "exam_id": 9,
+      "question": "Trong trường hợp nào, người điều khiển xe mô tô hai bánh, xe gắn máy không được kéo theo xe khác?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Khi xe được kéo không có người điều khiển",
+          "correct": true
+        },
+        { "id": 2, "content": "Khi xe được kéo là xe đạp", "correct": false },
+        {
+          "id": 3,
+          "content": "Khi xe được kéo là xe máy điện",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 214,
+      "exam_id": 9,
+      "question": "Khi điều khiển xe ô tô trên đường có sương mù dày đặc, người lái xe cần chú ý điều gì?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Bật đèn sương mù hoặc đèn chiếu gần",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, giữ khoảng cách an toàn lớn hơn bình thường",
+          "correct": true
+        },
+        { "id": 3, "content": "Bật đèn pha để nhìn rõ hơn", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 215,
+      "exam_id": 9,
+      "question": "Biển báo nào báo hiệu 'Cấm rẽ trái'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-123-a.jpg"
+    },
+    {
+      "id": 216,
+      "exam_id": 9,
+      "question": "Tại nơi đường bộ giao nhau cùng mức với đường sắt, khi có chuông báo hiệu hoặc thanh chắn đã hạ xuống, người tham gia giao thông phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Nhanh chóng vượt qua đường sắt",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Dừng lại ngay và giữ khoảng cách an toàn với thanh chắn",
+          "correct": true
+        },
+        { "id": 3, "content": "Đi chậm và quan sát", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 217,
+      "exam_id": 9,
+      "question": "Khi phát hiện có người bị nạn trên đường, người lái xe cần làm gì?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Dừng xe ngay lập tức, bật đèn cảnh báo nguy hiểm",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Thực hiện sơ cứu ban đầu nếu có kiến thức và gọi cấp cứu",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Chờ đợi người khác đến giúp đỡ",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 218,
+      "exam_id": 9,
+      "question": "Biển báo nào báo hiệu 'Đường cao tốc'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-401.jpg"
+    },
+    {
+      "id": 219,
+      "exam_id": 9,
+      "question": "Hành vi lạng lách, đánh võng trên đường bộ có bị nghiêm cấm hay không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Bị nghiêm cấm", "correct": true },
+        { "id": 2, "content": "Không bị nghiêm cấm", "correct": false },
+        {
+          "id": 3,
+          "content": "Bị nghiêm cấm tùy từng trường hợp",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 220,
+      "exam_id": 9,
+      "question": "Khi điều khiển xe ô tô vào đường cong, người lái xe cần thực hiện thao tác nào?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc độ để xe nhanh chóng vượt qua đường cong",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ trước khi vào đường cong và tăng dần khi xe đã qua đường cong",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Đi sát mép đường bên ngoài để mở rộng tầm nhìn",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 221,
+      "exam_id": 9,
+      "question": "Biển báo nào báo hiệu 'Đường dành cho xe máy'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-405-d.jpg"
+    },
+    {
+      "id": 222,
+      "exam_id": 9,
+      "question": "Việc lắp đặt, sử dụng còi, đèn không đúng thiết kế của nhà sản xuất đối với từng loại xe cơ giới có được phép không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Được phép", "correct": false },
+        { "id": 2, "content": "Không được phép", "correct": true },
+        {
+          "id": 3,
+          "content": "Được phép trong một số trường hợp đặc biệt",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 223,
+      "exam_id": 9,
+      "question": "Khi thấy trẻ em đang chơi gần đường, người lái xe cần xử lý như thế nào?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giảm tốc độ, quan sát kỹ và sẵn sàng xử lý tình huống",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Bấm còi to để trẻ em tránh đường",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Dừng hẳn lại nếu thấy trẻ em có dấu hiệu băng qua đường",
+          "correct": true
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 224,
+      "exam_id": 9,
+      "question": "Biển báo nào báo hiệu 'Chỗ ngoặt nguy hiểm vòng bên trái'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-201.jpg"
+    },
+    {
+      "id": 225,
+      "exam_id": 9,
+      "question": "Người điều khiển xe mô tô hai bánh, xe gắn máy có được đi vào đường ngược chiều không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Được phép", "correct": false },
+        { "id": 2, "content": "Không được phép", "correct": true },
+        {
+          "id": 3,
+          "content": "Được phép khi có biển báo hướng dẫn",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 226,
+      "exam_id": 10,
+      "question": "Người tham gia giao thông có nghĩa vụ gì khi thấy người khác gặp tai nạn giao thông?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Kịp thời sơ cứu người bị nạn (nếu có khả năng)",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Bảo vệ hiện trường, báo cho cơ quan công an hoặc y tế gần nhất",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Nhanh chóng rời khỏi hiện trường",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 227,
+      "exam_id": 10,
+      "question": "Khi điều khiển xe trên đường có nhiều ổ gà, người lái xe cần làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc để vượt qua nhanh các ổ gà",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, tránh các ổ gà lớn và đi chậm",
+          "correct": true
+        },
+        { "id": 3, "content": "Đi sát vào lề đường", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 228,
+      "exam_id": 10,
+      "question": "Biển báo nào báo hiệu 'Nguy hiểm giao nhau với đường sắt'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-207.jpg"
+    },
+    {
+      "id": 229,
+      "exam_id": 10,
+      "question": "Hành vi điều khiển xe mô tô, xe gắn máy không có gương chiếu hậu bên trái hoặc cả hai bên có bị xử phạt không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Không bị xử phạt", "correct": false },
+        { "id": 2, "content": "Bị xử phạt theo quy định", "correct": true },
+        {
+          "id": 3,
+          "content": "Chỉ bị xử phạt nếu gây tai nạn",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 230,
+      "exam_id": 10,
+      "question": "Khi xe ô tô đang đi trên đường mà bị nổ lốp, người lái xe cần làm gì?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giữ chặt vô lăng, từ từ giảm tốc độ và đưa xe vào lề đường",
+          "correct": true
+        },
+        { "id": 2, "content": "Bật đèn cảnh báo nguy hiểm", "correct": true },
+        {
+          "id": 3,
+          "content": "Phanh gấp để dừng xe ngay lập tức",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 231,
+      "exam_id": 10,
+      "question": "Biển báo nào báo hiệu 'Đường cong nguy hiểm vòng bên phải'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-201-a.jpg"
+    },
+    {
+      "id": 232,
+      "exam_id": 10,
+      "question": "Người ngồi trên xe mô tô hai bánh, xe gắn máy có được sử dụng ô (dù) khi đang lái xe không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Được phép", "correct": false },
+        { "id": 2, "content": "Không được phép", "correct": true },
+        { "id": 3, "content": "Được phép nếu trời mưa to", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 233,
+      "exam_id": 10,
+      "question": "Khi xe bị kẹt trên đường ray xe lửa và có tàu hỏa đang đến gần, người lái xe phải làm gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Cố gắng đẩy xe ra khỏi đường ray",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Nhanh chóng rời khỏi xe và tìm nơi an toàn, sau đó báo cho cơ quan chức năng",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Bật đèn pha và còi để báo hiệu cho tàu hỏa",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 234,
+      "exam_id": 10,
+      "question": "Biển báo nào báo hiệu 'Giao nhau với đường ưu tiên'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-207-a.jpg"
+    },
+    {
+      "id": 235,
+      "exam_id": 10,
+      "question": "Tại nơi đường giao nhau có đèn tín hiệu giao thông, khi đèn tín hiệu màu xanh bật sáng, người tham gia giao thông được phép làm gì?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Được phép đi thẳng hoặc rẽ theo hướng cho phép",
+          "correct": true
+        },
+        { "id": 2, "content": "Được phép vượt xe", "correct": false },
+        { "id": 3, "content": "Không được phép dừng đỗ", "correct": true }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 236,
+      "exam_id": 10,
+      "question": "Khi điều khiển xe vào buổi tối, người lái xe cần chú ý điều gì để không gây chói mắt cho người đi ngược chiều?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Sử dụng đèn chiếu xa liên tục",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Chuyển từ đèn chiếu xa sang đèn chiếu gần khi có xe đi ngược chiều",
+          "correct": true
+        },
+        { "id": 3, "content": "Bật đèn khẩn cấp", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 237,
+      "exam_id": 10,
+      "question": "Biển báo nào báo hiệu 'Đường hai chiều'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-203.jpg"
+    },
+    {
+      "id": 238,
+      "exam_id": 10,
+      "question": "Việc điều khiển xe máy điện, xe đạp điện không đội mũ bảo hiểm có cài quai đúng quy cách có bị xử phạt không?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Bị xử phạt", "correct": true },
+        { "id": 2, "content": "Không bị xử phạt", "correct": false },
+        {
+          "id": 3,
+          "content": "Chỉ bị xử phạt khi có tai nạn",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 239,
+      "exam_id": 10,
+      "question": "Khi xe ô tô đi vào đường ngập nước, người lái xe cần xử lý như thế nào?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Đi chậm, giữ đều ga, đi số thấp",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Không dừng hoặc tắt máy giữa đường ngập",
+          "correct": true
+        },
+        { "id": 3, "content": "Tăng tốc để vượt qua nhanh", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 240,
+      "exam_id": 10,
+      "question": "Biển báo nào báo hiệu 'Đường cấm xe tải'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-106-a.jpg"
+    },
+    {
+      "id": 241,
+      "exam_id": 10,
+      "question": "Người điều khiển phương tiện tham gia giao thông phải giảm tốc độ khi nào?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Khi tầm nhìn bị hạn chế bởi sương mù, mưa",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Khi đi qua khu vực đông dân cư",
+          "correct": true
+        },
+        { "id": 3, "content": "Khi xe phía sau xin vượt", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 242,
+      "exam_id": 10,
+      "question": "Khi điều khiển xe mô tô qua đường giao nhau có vạch sơn dành cho người đi bộ, người lái xe cần chú ý điều gì?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Tăng tốc để nhanh chóng qua đường",
+          "correct": false
+        },
+        {
+          "id": 2,
+          "content": "Giảm tốc độ, quan sát và nhường đường cho người đi bộ",
+          "correct": true
+        },
+        {
+          "id": 3,
+          "content": "Bấm còi để người đi bộ tránh đường",
+          "correct": false
+        }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 243,
+      "exam_id": 10,
+      "question": "Biển báo nào báo hiệu 'Đường giao nhau với đường sắt không có rào chắn'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": true }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-211.jpg"
+    },
+    {
+      "id": 244,
+      "exam_id": 10,
+      "question": "Hành vi vượt xe trong trường hợp nào dưới đây bị nghiêm cấm?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Vượt tại nơi đường giao nhau, đường bộ giao nhau cùng mức với đường sắt",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Vượt xe trên đường thẳng, thoáng",
+          "correct": false
+        },
+        {
+          "id": 3,
+          "content": "Vượt xe khi có tín hiệu cho phép vượt",
+          "correct": false
+        }
+      ],
+      "categories": ["law"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 245,
+      "exam_id": 10,
+      "question": "Khi xe bị mất phanh trên đường dốc, người lái xe cần làm gì?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Về số thấp, sử dụng phanh động cơ",
+          "correct": true
+        },
+        {
+          "id": 2,
+          "content": "Tìm cách đánh lái vào vách núi hoặc dải phân cách mềm để giảm tốc độ",
+          "correct": true
+        },
+        { "id": 3, "content": "Đạp chân ga để tăng tốc độ", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 246,
+      "exam_id": 10,
+      "question": "Biển báo nào báo hiệu 'Hết đoạn đường cấm vượt'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": true },
+        { "id": 2, "content": "Biển 2", "correct": false },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-133.jpg"
+    },
+    {
+      "id": 247,
+      "exam_id": 10,
+      "question": "Người điều khiển phương tiện tham gia giao thông có trách nhiệm chấp hành hiệu lệnh của đèn tín hiệu giao thông. Đúng hay sai?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Đúng", "correct": true },
+        { "id": 2, "content": "Sai", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    },
+    {
+      "id": 248,
+      "exam_id": 10,
+      "question": "Khi điều khiển xe ô tô trên đường đông đúc, người lái xe cần chú ý điều gì?",
+      "type": "multiple-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Giữ khoảng cách an toàn với xe phía trước",
+          "correct": true
+        },
+        { "id": 2, "content": "Hạn chế chuyển làn, vượt xe", "correct": true },
+        { "id": 3, "content": "Bật đèn pha để gây chú ý", "correct": false }
+      ],
+      "categories": ["situation"],
+      "compulsory": false,
+      "img_url": ""
+    },
+    {
+      "id": 249,
+      "exam_id": 10,
+      "question": "Biển báo nào báo hiệu 'Nguy hiểm có vật rơi'?",
+      "type": "single-choice",
+      "answer": [
+        { "id": 1, "content": "Biển 1", "correct": false },
+        { "id": 2, "content": "Biển 2", "correct": true },
+        { "id": 3, "content": "Biển 3", "correct": false }
+      ],
+      "categories": ["traffic-sign"],
+      "compulsory": false,
+      "img_url": "https://truongdaylaixeoto.net/wp-content/uploads/2016/06/Bien-229.jpg"
+    },
+    {
+      "id": 250,
+      "exam_id": 10,
+      "question": "Tại nơi đường giao nhau, khi có cảnh sát giao thông ra hiệu lệnh, người tham gia giao thông phải tuân thủ hiệu lệnh của ai?",
+      "type": "single-choice",
+      "answer": [
+        {
+          "id": 1,
+          "content": "Hiệu lệnh của cảnh sát giao thông",
+          "correct": true
+        },
+        { "id": 2, "content": "Đèn tín hiệu giao thông", "correct": false },
+        { "id": 3, "content": "Biển báo hiệu đường bộ", "correct": false }
+      ],
+      "categories": ["law"],
+      "compulsory": true,
+      "img_url": ""
+    }
+  ]
+}

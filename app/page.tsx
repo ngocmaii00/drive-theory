@@ -6,8 +6,6 @@ import { Header } from "@/components/common/Header";
 import { HeroSection } from "@/components/HeroSection";
 import { FeaturesSection } from "@/components/FeaturesSection";
 import { TopicsSection } from "@/components/TopicsSection";
-import { TestimonialsSection } from "@/components/TestimonialsSection";
-import { FloatingActionButton } from "@/components/FloatingActionButton";
 
 export default function HomePage() {
   const [mounted, setMounted] = useState(false);
@@ -42,7 +40,6 @@ export default function HomePage() {
       <HeroSection />
       <FeaturesSection />
       <TopicsSection />
-      <TestimonialsSection />
     </>
   );
 }

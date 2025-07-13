@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { Button } from "@/components/ui/button"
-import { Zap, Sparkles, Menu, X } from "lucide-react"
+import {  Sparkles, Menu, X, Bike, ArrowRight } from "lucide-react"
 import Link from "next/link"
 
 interface HeaderProps {
@@ -38,9 +38,8 @@ export function Header({ scrollY }: HeaderProps) {
           <div className="flex items-center space-x-3 group">
             <div className="relative">
               <div className="w-12 h-12 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-xl flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
-                <Zap className="w-7 h-7 text-white" />
+                <Bike className="w-7 h-7 text-white" />
               </div>
-              <div className="absolute -top-1 -right-1 w-4 h-4 bg-green-400 rounded-full animate-ping"></div>
             </div>
             <div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
@@ -65,15 +64,10 @@ export function Header({ scrollY }: HeaderProps) {
           </nav>
 
           <div className="flex items-center space-x-4">
-            {/* <Button variant="ghost" className="hidden md:flex text-slate-300 hover:text-white hover:bg-slate-800/50">
-              Đăng nhập
-            </Button> */}
-            <Button className="cursor-pointer bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 hover:from-blue-600 hover:via-purple-600 hover:to-pink-600 text-white font-semibold px-6 py-2 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105">
-              <Sparkles className="w-4 h-4 mr-2" />
+            <Button className="group cursor-pointer bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 hover:from-blue-600 hover:via-purple-600 hover:to-pink-600 text-white font-semibold px-6 py-2 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105">
               Bắt đầu ngay
+              <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform duration-300" />
             </Button>
-
-            {/* Mobile menu button */}
             <Button
               variant="ghost"
               size="icon"

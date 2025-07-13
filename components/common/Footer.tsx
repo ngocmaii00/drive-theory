@@ -1,6 +1,6 @@
 "use client"
 
-import { Zap, Phone, Mail, ChevronRight } from "lucide-react"
+import { Phone, Mail, ChevronRight, Bike } from "lucide-react"
 import Link from "next/link"
 
 export function Footer() {
@@ -8,11 +8,10 @@ export function Footer() {
     <footer className="bg-slate-900/80 backdrop-blur-xl border-t border-slate-700/50 relative px-16 mt-10">
       <div className="container mx-auto px-4 py-16">
         <div className="grid md:grid-cols-5 gap-8">
-          {/* Brand */}
           <div className="md:col-span-2">
             <div className="flex items-center space-x-3 mb-6">
               <div className="w-12 h-12 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 rounded-xl flex items-center justify-center">
-                <Zap className="w-7 h-7 text-white" />
+                <Bike className="w-7 h-7 text-white" />
               </div>
               <div>
                 <span className="text-2xl font-bold bg-gradient-to-r from-white to-slate-300 bg-clip-text text-transparent">
@@ -33,7 +32,6 @@ export function Footer() {
             </div>
           </div>
 
-          {/* Links */}
           <div>
             <h3 className="text-white font-bold mb-6 text-lg">Học tập</h3>
             <ul className="space-y-3">
